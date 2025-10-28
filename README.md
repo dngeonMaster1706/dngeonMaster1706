@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaushik</h1>
-<h3 align="center">an Engineering student at NIT Silchar, I am passionate about learning fullstack development</h3>
+<h3 align="center">a software Engineer building some random applications!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dngeonmaster1706&label=Profile%20views&color=0e75b6&style=flat" alt="dngeonmaster1706" /> </p>
 
